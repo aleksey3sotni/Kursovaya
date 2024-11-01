@@ -1,4 +1,4 @@
-#include "Calculator.h"
+#include "Calc.h"
 #include <boost/numeric/conversion/cast.hpp>
 #include <limits>
 #include <stdexcept>
